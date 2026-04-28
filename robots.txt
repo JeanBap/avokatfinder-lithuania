@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lithuania.avokatfinder.com/sitemap.xml
