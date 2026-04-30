@@ -1,5 +1,31 @@
 # AvökatFinder Lithuania
-> English-speaking law firm directory for Lithuania
+> The English-language directory of lawyers and law firms in Lithuania for expats, foreign nationals and international businesses.
 
-Directory: https://lithuania.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://lithuania.avokatfinder.com/: Home — find an English-speaking lawyer in Lithuania
+- https://lithuania.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Lithuania
+- https://lithuania.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Lithuania legal terms
+- https://lithuania.avokatfinder.com/blog/: Expat legal guides and property law articles for Lithuania
+- https://lithuania.avokatfinder.com/about/: About AvökatFinder Lithuania
+- https://lithuania.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://lithuania.avokatfinder.com/glossary/hipoteka-lietuva/
+- https://lithuania.avokatfinder.com/glossary/igaliojimas/
+- https://lithuania.avokatfinder.com/glossary/kadastras-lietuva/
+- https://lithuania.avokatfinder.com/glossary/nekilnojamojo-turto-registras/
+- https://lithuania.avokatfinder.com/glossary/notaras-lietuva/
+- https://lithuania.avokatfinder.com/glossary/nuomos-sutartis/
+- https://lithuania.avokatfinder.com/glossary/pirkimo-pardavimo-sutartis/
+- https://lithuania.avokatfinder.com/glossary/servitutas/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Lithuania
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://lithuania.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
