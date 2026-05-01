@@ -10,15 +10,26 @@
 - https://lithuania.avokatfinder.com/contact/: Contact us
 
 ## Legal Glossary Terms
+- https://lithuania.avokatfinder.com/glossary/atnaujinimo-fondas-lt/
+- https://lithuania.avokatfinder.com/glossary/bendroji-daline-nuosavybe-lt/
+- https://lithuania.avokatfinder.com/glossary/daugiabucio-bendrija-lt/
+- https://lithuania.avokatfinder.com/glossary/energinis-sertifikatas-lt/
 - https://lithuania.avokatfinder.com/glossary/hipoteka-lietuva/
 - https://lithuania.avokatfinder.com/glossary/hipoteka-lt/
 - https://lithuania.avokatfinder.com/glossary/igaliojimas/
 - https://lithuania.avokatfinder.com/glossary/kadastras-lietuva/
 - https://lithuania.avokatfinder.com/glossary/nekilnojamojo-turto-registras/
 - https://lithuania.avokatfinder.com/glossary/notaras-lietuva/
+- https://lithuania.avokatfinder.com/glossary/notarinis-sandoris-lt/
 - https://lithuania.avokatfinder.com/glossary/nuomos-sutartis/
 - https://lithuania.avokatfinder.com/glossary/pirkimo-pardavimo-sutartis/
+- https://lithuania.avokatfinder.com/glossary/pirkimo-teise-lt/
+- https://lithuania.avokatfinder.com/glossary/pvm-nekilnojamas-turtas-lt/
+- https://lithuania.avokatfinder.com/glossary/registro-israsas-lt/
 - https://lithuania.avokatfinder.com/glossary/servitutas/
+- https://lithuania.avokatfinder.com/glossary/statybos-leidimas-lt/
+- https://lithuania.avokatfinder.com/glossary/turto-vertinimas-lt/
+- https://lithuania.avokatfinder.com/glossary/zemes-mokestis-lt/
 
 ## Site Info
 - Language: English
